@@ -11,4 +11,4 @@ So, for each of this scanned image,
 ⦁	Segregate the pores & grains and determine the Porosity.
 ⦁	Classify the pore sizes into: Micro pore (<20μm), Meso pore (20-100μm) and Macro pore (>100μm) and determine their respective fractions.
 
-Make 3-5 slides ppt (<yourName>_<collegeName>) mentioning the algorithms followed and result obtained. Mail your ppt before EOD (30-03-2018) at submiitr07@gmail.com.
+Make 3-5 slides ppt (yourName_collegeName) mentioning the algorithms followed and result obtained. Mail your ppt before EOD (30-03-2018) at submiitr07@gmail.com.
